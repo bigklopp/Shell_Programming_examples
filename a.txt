@@ -1,0 +1,2 @@
+ls: 부적절한 옵션 -- 'z'
+Try 'ls --help' for more information.
