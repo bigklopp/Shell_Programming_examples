@@ -1,4 +1,4 @@
-합계 444
+합계 440
 drwxrwxr-x 3 apple apple  4096  6월 30 11:45 .
 drwxrwxr-x 7 apple apple  4096  6월 29 17:44 ..
 -rw------- 1 apple apple 11634  6월 25 10:50 .bash_history
@@ -43,7 +43,7 @@ drwxrwxr-x 8 apple apple  4096  6월 29 17:50 .git
 -rw-rw-r-- 1 apple apple    23  6월 25 15:17 HEAD
 -rw-rw-r-- 1 apple apple    39  6월 24 15:39 HelloKitty.sh
 -rwxr-xr-x 1 apple apple   104  6월 24 15:43 HelloKitty2.sh
--rw-rw-r-- 1 apple apple  6758  6월 30 11:47 a.txt
+-rw-rw-r-- 1 apple apple    69  6월 24 14:50 a.txt
 -rw-rw-r-- 1 apple apple   450  6월 25 12:26 andor.sh
 -rwxr--r-- 1 apple apple   384  6월 29 12:16 array1.sh
 -rwxr--r-- 1 apple apple   233  6월 29 12:36 array2.sh
